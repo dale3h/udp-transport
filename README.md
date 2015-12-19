@@ -24,4 +24,6 @@ Small Node.js library to simplify sending UDP packets from multiple network inte
 
 ## Release History
 
-* 0.1.0 Initial release
+* 0.1.2 updated package.json and README
+* 0.1.1 we shall get there eventually
+* 0.1.0 initial release
